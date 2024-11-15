@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  },
+  "name": "songclasses",
+  "version": "1.0.0",
+  "main": "config.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Morten R. Winther",
+  "license": "ISC",
+  "description": "",
+  "type": "module"
+}
